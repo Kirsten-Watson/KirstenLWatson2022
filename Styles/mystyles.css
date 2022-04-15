@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(218, 173, 145);
+}
+
+.aboutcolor{
+background-color: rgb(218, 173, 145) ;
+}
+.aboutresumefont{
+text-size-adjust:  100px;
+color: rgb(1, 0, 10);
+}
+
+.topbutton{
+    color: rgb(43, 61, 226); text-decoration: double;
+    font-style: italic;
+    text-align: center;
+}
+
+.schoolwebsite{
+    font-weight: bold;
+}
+.hiphop{
+ 
+    border: 20px;
+   
+}
+.video{
+    text-align: center;
+}
